@@ -20,7 +20,7 @@ body {
 
 .profile {
     margin-bottom: 20px;
-    margin-top: 300px;
+    margin-top: 400px;
 }
 
 .profile-pic {
@@ -28,7 +28,7 @@ body {
     height: 150px;
     border-radius: 50%;
     object-fit: cover;
-    margin-top: 20px;
+    margin-top: 50px;
     border: 1px solid #000;
 }
 
